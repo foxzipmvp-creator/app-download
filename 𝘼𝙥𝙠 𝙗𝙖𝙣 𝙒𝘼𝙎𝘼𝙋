@@ -1,0 +1,8 @@
+website
+│
+├── index.html
+│
+└── apps
+    ├── whatsapp.apk
+    ├── photoeditor.apk
+    └── music.apk
