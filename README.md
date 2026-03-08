@@ -106,13 +106,13 @@ background:#111;
 <div class="banner">
 
 <h1>Download Aplikasi Gratis</h1>
-<p>Temukan aplikasi Android terbaik</p>
+<p>Temukan aplikasi secret untuk meraih kentungan lebih banyak</p>
 
 </div>
 
 <div class="container">
 
-<h2>🔥 Trending Apps</h2>
+<h2>🔥 SECRET APPS</h2>
 
 <div class="apps">
 
@@ -120,11 +120,11 @@ background:#111;
 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
 
-<h3>app ban wa</h3>
+<h3>APP BAN WA</h3>
 
 <p class="rating">⭐⭐⭐⭐⭐</p>
 
-<p>anti spam dan low risk</p>
+<p>LOW RISK DAN AMAN</p>
 
 <a class="download" href="apps/whatsapp.apk">Download</a>
 
@@ -135,13 +135,13 @@ background:#111;
 
 <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png">
 
-<h3>Photo Editor Pro</h3>
+<h3>APK PENGHASIL UANG TERBARU</h3>
 
 <p class="rating">⭐⭐⭐⭐</p>
 
-<p>Edit foto profesional</p>
+<p>kerjakan misi gampang</p>
 
-<a class="download" href="apps/photoeditor.apk">Download</a>
+<a class="download" href="apps/apk penghasil uang terbaru.apk">Download</a>
 
 </div>
 
@@ -150,13 +150,13 @@ background:#111;
 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732228.png">
 
-<h3>Music Player</h3>
+<h3>18+ LIVE</h3>
 
 <p class="rating">⭐⭐⭐⭐</p>
 
-<p>Player musik ringan</p>
+<p>cewek geol bohay</p>
 
-<a class="download" href="apps/music.apk">Download</a>
+<a class="download" href="apps/18+ LIVE.apk">Download</a>
 
 </div>
 
@@ -166,7 +166,7 @@ background:#111;
 
 <footer>
 
-© 2026 𝘼𝙋𝙆 𝘽𝘼𝙉 𝙒𝘼
+© 2026 WAYWINE COM
 
 </footer>
 
